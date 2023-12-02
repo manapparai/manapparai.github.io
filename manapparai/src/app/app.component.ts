@@ -14,12 +14,12 @@ export class AppComponent {
   }
 
   ngOnInit() {
-    // this.router.events.subscribe((event) => {
-    //   if (event instanceof NavigationEnd) {
-    //     // Any route Redirect to the "home" route
-    //     this.router.navigate(['/home']);
-    //   }
-    // });
+    this.router.events.subscribe((event) => {
+      if (event instanceof NavigationEnd) {
+        // Any route Redirect to the "home" route
+        this.router.navigate(['/home']);
+      }
+    });
   }
 
   @HostListener('window:beforeunload', ['$event'])
