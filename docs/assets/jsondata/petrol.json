@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 110001,
+        "address": "Madurai Road,Manapparai Pin:621306",
+        "map_loc": "10�35'59.5\"N+78�24'48.2\"E/@10.599849,78.4128015,214m",
+        "petrol_name": "Indian Oil Madurai Road"
+    },
+    {
+        "_id": 110002,
+        "address": "Dindugal to Trichy Highway road, Manapparai Pin:621306",
+        "map_loc": "Petrol+Bunk/@10.6121565,78.4196442,214m",
+        "petrol_name": "Indian Oil Dindugal Road"
+    },
+    {
+        "_id": 110003,
+        "address": "Opposite to kasim Hospital, Madurai Road, Manapparai. Pin: 621306",
+        "map_loc": "IOC+Petrol+Pump/@10.6049606,78.4175446,214m",
+        "petrol_name": "Indian Oil Thuvarankuruchy Road"
+    }
+]

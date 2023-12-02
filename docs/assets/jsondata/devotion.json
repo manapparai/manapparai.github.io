@@ -1,0 +1,98 @@
+[
+    {
+        "_id": 50001,
+        "address": "Manapparai. Pin:621306",
+        "devotion_name": "Aanjieyar Koyil",
+        "map_loc": "Manapparai,+Tamil+Nadu+621306/@10.6129037,78.4118538,6491m"
+    },
+    {
+        "_id": 50002,
+        "address": "Trichy Road,Manapparai. Pin:621306",
+        "devotion_name": "Agastheswarar Munnishwera Koyil",
+        "map_loc": "Manapparai,+Tamil+Nadu+621306/@10.6129037,78.4118538,6491m"
+    },
+    {
+        "_id": 50003,
+        "address": "Manapparai Patti,Manapparai. Pin:621306",
+        "devotion_name": "Ayyar Koyil",
+        "map_loc": "10�35'10.5\"N+78�25'20.8\"E/@10.58626,78.421523,337m"
+    },
+    {
+        "_id": 50004,
+        "address": "Near Kaaliyamman koyil,Trichy Road,Manapparai. Pin:621306",
+        "devotion_name": "Eswaran Temple",
+        "map_loc": "Easwaran+Temple,+Kulithalai+-+Manapparai+Rd,+Tamil+Nadu+621306/@10.6270432,78.4319119,16.75z"
+    },
+    {
+        "_id": 50005,
+        "address": "Near Manapparai Police Station, Manapparai. Pin:621306",
+        "devotion_name": "Holy Church",
+        "map_loc": "10�36'28.4\"N+78�25'18.1\"E/@10.607891,78.4211141,214m"
+    },
+    {
+        "_id": 50006,
+        "address": "Trichy Road, Manapparai. Pin:621306",
+        "devotion_name": "Jumma Periya Pallivaasal(Jumma Masjid)",
+        "map_loc": "10�36'31.3\"N+78�25'20.2\"E/@10.608684,78.4216896,214m"
+    },
+    {
+        "_id": 50007,
+        "address": "Ramasamy Street,Manapparai. Pin:621306",
+        "devotion_name": "Kabasthaan Palli (Mosque)",
+        "map_loc": "10�36'32.2\"N+78�25'30.5\"E/@10.608955,78.424565,214m"
+    },
+    {
+        "_id": 50008,
+        "address": "Trichy Road,Manapparai. Pin:621306",
+        "devotion_name": "Kaliyamman Koyil",
+        "map_loc": "Kaali+Kovil/@10.6098458,78.4236741,19.75z"
+    },
+    {
+        "_id": 50009,
+        "address": "Veerappur,Manapparai. Pin:621306",
+        "devotion_name": "Maha Muni Koyil",
+        "map_loc": "Veerapur+Ponnar+Shankar+Temple/@10.6748099,78.39553,811m"
+    },
+    {
+        "_id": 50010,
+        "address": "Trichy Road,Manapparai. Pin:621306",
+        "devotion_name": "Mariyamman koyil",
+        "map_loc": "Mariamman+Koil/@10.6087476,78.4228579,19.25z"
+    },
+    {
+        "_id": 50011,
+        "address": "Near Bus stand,Manapparai. Pin:621306",
+        "devotion_name": "Masthan Street Pallivasal(Mosque)",
+        "map_loc": "10�36'19.6\"N+78�25'15.0\"E/@10.605459,78.4202638,214m"
+    },
+    {
+        "_id": 50012,
+        "address": "Trichy Road,Manapparai. Pin:621306",
+        "devotion_name": "Nallandavar Koyil",
+        "map_loc": "Sri+Nallandavar+Temple/@10.6246831,78.4339298,19z"
+    },
+    {
+        "_id": 50013,
+        "address": "Malayadipatty",
+        "devotion_name": "Portuguese Church",
+        "map_loc": "st+thomas+mount/@10.5874994,78.3840239,2855m"
+    },
+    {
+        "_id": 50014,
+        "address": "Besto Nagar,Manapparai. Pin:621306",
+        "devotion_name": "Sai Bhabha Koyil",
+        "map_loc": "Kassim+Hospital/@10.6043652,78.4177524,19.5z"
+    },
+    {
+        "_id": 50015,
+        "address": "Trichy Road,Manapparai. Pin:621306",
+        "devotion_name": "Shivan Koyil",
+        "map_loc": "Kassim+Hospital/@10.6043652,78.4177524,19.5z"
+    },
+    {
+        "_id": 50016,
+        "address": "Near Mariyamman Koyil, Trichy Road,Manapparai. Pin:621306",
+        "devotion_name": "Sri Varadaraja Perumal Koyil",
+        "map_loc": "Sri+Varadaraja+Perumal+Temple,+Boys+Town,+Manapparai,+Tamil+Nadu+621306/@10.6086955,78.4225776,18.5z"
+    }
+]

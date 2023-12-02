@@ -1,0 +1,338 @@
+[
+    {
+        "_id": 140001,
+        "address": "AK Tower,No 3, Madurai Road, Manapparai. Pin:621306",
+        "map_loc": "10�36'20.9\"N+78�25'09.0\"E/@10.605813,78.4185923,214m",
+        "phone_no": "4332262301",
+        "shop_name": "AK Thanga Maaligai",
+        "shop_type": "Jewellary"
+    },
+    {
+        "_id": 140002,
+        "address": "No 7, Trichy Road, Manapparai. Pin:621306",
+        "map_loc": "C+C+Tower,+Kulithalai+-+Manapparai+Rd,+Boys+Town,+Manapparai,+Tamil+Nadu+621306/@10.6083965,78.4225638,214m",
+        "phone_no": "4332260542",
+        "shop_name": "Ali Dressland",
+        "shop_type": "Mens & Womens Night wear and inners"
+    },
+    {
+        "_id": 140003,
+        "address": "Kovilpatti Road, Manapparai. Pin:621306",
+        "map_loc": "10�36'25.7\"N+78�25'22.9\"E/@10.607148,78.4224448,214m",
+        "phone_no": "9688888338",
+        "shop_name": "Amsam Mobiles",
+        "shop_type": "Mobiles & Accessories & Services"
+    },
+    {
+        "_id": 140004,
+        "address": "63, Church Complex,Manapparai. Pin:621306",
+        "map_loc": "Church+Complex/@10.6077225,78.4211792,214m",
+        "phone_no": "4332260189",
+        "shop_name": "Anitha Fancy Shopping",
+        "shop_type": "Gifts and Toys"
+    },
+    {
+        "_id": 140005,
+        "address": "Kovil Patti Road, Opposit to Lakshmi School, Manapparai. Pin:621306",
+        "map_loc": "10�36'16.6\"N+78�25'36.9\"E/@10.604604,78.4259349,360m",
+        "phone_no": "4332260603",
+        "shop_name": "ARM Traders",
+        "shop_type": "Building Materials"
+    },
+    {
+        "_id": 140006,
+        "address": "Church Complex, Manapparai. Pin:621306",
+        "map_loc": "Church+Complex/@10.607564,78.4204487,214m",
+        "phone_no": "9865653640",
+        "shop_name": "Bharath Shoppe",
+        "shop_type": "Mobiles & Electronics"
+    },
+    {
+        "_id": 140007,
+        "address": "Manickiam Towers, Dindugal Road, Manapparai. Pin:621306",
+        "map_loc": "bluesea+aquarium/@10.6062731,78.4177943,214m",
+        "phone_no": "4332261888",
+        "shop_name": "Frontline Systems",
+        "shop_type": "Computer Sales and Services"
+    },
+    {
+        "_id": 140008,
+        "address": "179/A Chinnakadai Street,Manapparai. Pin:621306",
+        "map_loc": "10�36'25.6\"N+78�25'22.4\"E/@10.607121,78.4222991,214m",
+        "phone_no": "9952739991",
+        "shop_name": "Green Mobiles",
+        "shop_type": "Mobiles Sales and Service"
+    },
+    {
+        "_id": 140009,
+        "address": "1/42 RR Complex, Trichy - Dindigul Byepass, Opp Vegetable Market, Manapparai. Pin:621306",
+        "map_loc": "Green+Super+Market/@10.6107535,78.4175941,361m",
+        "phone_no": "9578096380",
+        "shop_name": "Green Super Market",
+        "shop_type": "Super Market"
+    },
+    {
+        "_id": 140010,
+        "address": "Pudhutheru,Moorkulathu Sandhu,Manapparai. Pin:621306",
+        "map_loc": "10�36'27.1\"N+78�25'13.8\"E/@10.607531,78.4199237,214m",
+        "phone_no": "4332260264",
+        "shop_name": "GreenLand Agencies",
+        "shop_type": "Agricultural Related Products Sales"
+    },
+    {
+        "_id": 140011,
+        "address": "19-H Chinnakadai Street, Manapparai. Pin:621306",
+        "map_loc": "Jayam+Electronics/@10.607694,78.422695,203m",
+        "phone_no": "4332262155",
+        "shop_name": "Jayam Electronics",
+        "shop_type": "All Electronics items available"
+    },
+    {
+        "_id": 140012,
+        "address": "No.7 Nagarachi vanika valaham, Kovilpatti Road, Manapparai. Pin:621306",
+        "map_loc": "10�36'27.1\"N+78�25'25.7\"E/@10.607537,78.4232313,214m",
+        "phone_no": "9788765023",
+        "shop_name": "Jeyam Electricals and Services",
+        "shop_type": "Electricals sales & Services"
+    },
+    {
+        "_id": 140013,
+        "address": "Manickiam Towers, Dindugal Road, Manapparai. Pin:621306",
+        "map_loc": "bluesea+aquarium/@10.6060222,78.4176659,215m",
+        "phone_no": "9042406190",
+        "shop_name": "Joshua Aquarium",
+        "shop_type": "Aquarium and Batteries"
+    },
+    {
+        "_id": 140014,
+        "address": "Railway station road, Manapparai. Pin : 621306",
+        "map_loc": "Jothi+Printers/@10.6073966,78.4200831,20z",
+        "phone_no": "4332262406",
+        "shop_name": "Jyothi Printers",
+        "shop_type": "General Store"
+    },
+    {
+        "_id": 140015,
+        "address": "PudhuTheru, Manapparai. Pin:621306",
+        "map_loc": "10�36'25.7\"N+78�25'14.2\"E/@10.607128,78.4200288,214m",
+        "phone_no": "9443425303",
+        "shop_name": "Jyothi Store",
+        "shop_type": "General Store"
+    },
+    {
+        "_id": 140016,
+        "address": "Kovilpatti road, Manapparai. Pin:621306",
+        "map_loc": "10�36'28.1\"N+78�25'24.9\"E/@10.607812,78.4229967,214m",
+        "phone_no": "9865649917",
+        "shop_name": "Kurinji Mobiles",
+        "shop_type": "Mobiles Sales and Services"
+    },
+    {
+        "_id": 140017,
+        "address": "Opposite to taluk office, Amman towers, Manapparai. Pin:621306",
+        "map_loc": "Mariamman+Koil/@10.6086101,78.4230742,19.25z",
+        "phone_no": "9597718008",
+        "shop_name": "Lollipop Kids World",
+        "shop_type": "Toys for kids"
+    },
+    {
+        "_id": 140018,
+        "address": "63/1, Puthanatham Road,Manapparai. Pin:621306",
+        "map_loc": "Iyappan+Cottage/@10.6030438,78.4157284,428m",
+        "phone_no": "4332263593",
+        "shop_name": "Mala Super Market(MSM)",
+        "shop_type": "Super Market"
+    },
+    {
+        "_id": 140019,
+        "address": "Chinnakadai Street, Manapparai. Pin:621306",
+        "map_loc": "10�36'24.8\"N+78�25'21.7\"E/@10.606896,78.4221121,214m",
+        "phone_no": "9442708010",
+        "shop_name": "Max cool",
+        "shop_type": "Men's and Boys Wear"
+    },
+    {
+        "_id": 140020,
+        "address": "348A, Kovilpatti road, Manapparai. Pin:621306",
+        "map_loc": "Church+Complex/@10.6075858,78.4207493,215m",
+        "phone_no": "4332260608",
+        "shop_name": "New Fancy",
+        "shop_type": "Plywood,Glass & Hardwares"
+    },
+    {
+        "_id": 140021,
+        "address": "Manickiam Towers, Dindugal Road, Manapparai. Pin:621306",
+        "map_loc": "10�36'22.7\"N+78�25'07.0\"E/@10.606318,78.4180436,214m",
+        "phone_no": "9965988064",
+        "shop_name": "Nokio Care",
+        "shop_type": "Mobiles Sales and Service"
+    },
+    {
+        "_id": 140022,
+        "address": "109,Chinnakkadai Street, Manapparai. Pin:621306",
+        "map_loc": "10�36'26.4\"N+78�25'23.2\"E/@10.607321,78.4225309,214m",
+        "phone_no": "9994011123",
+        "shop_name": "Orange Mobiles",
+        "shop_type": "Mobiles & Accessories"
+    },
+    {
+        "_id": 140023,
+        "address": "47, Pudhutheru, Manapparai. Pin:621306",
+        "map_loc": "10�36'27.2\"N+78�25'15.7\"E/@10.607564,78.4204487,214m",
+        "phone_no": "4332260257",
+        "shop_name": "Palaniyappa Cycle Stores",
+        "shop_type": "Cycle Sales"
+    },
+    {
+        "_id": 140024,
+        "address": "Kovilpatti Road, Manapparai. Pin:621306",
+        "map_loc": "10�36'28.1\"N+78�25'24.8\"E/@10.607811,78.4229716,214m",
+        "phone_no": "9894015396",
+        "shop_name": "Parrys Mobiles",
+        "shop_type": "Mobiles & Accessories"
+    },
+    {
+        "_id": 140025,
+        "address": "Trichy Road, Newar Maariyamman Kovil, Manapparai. Pin:621306",
+        "map_loc": "10�36'31.0\"N+78�25'23.4\"E/@10.60862,78.4225794,214m",
+        "phone_no": "9976367989",
+        "shop_name": "Priya Covering",
+        "shop_type": "Covering Jewellery"
+    },
+    {
+        "_id": 140026,
+        "address": "64/1 Josuva Complex, Dindugal Road, Near State Bank, Manapparai. Pin:621306",
+        "map_loc": "10�36'18.7\"N+78�24'58.1\"E/@10.605204,78.4156043,204m",
+        "phone_no": "9698059305",
+        "shop_name": "Rain Aqua",
+        "shop_type": "Packaged Drinking Waters"
+    },
+    {
+        "_id": 140027,
+        "address": "197, Kovipatti Road, Opposite to Paal Society, Manapparai. Pin:621306",
+        "map_loc": "10�36'18.5\"N+78�25'35.5\"E/@10.605129,78.4259434,215m",
+        "phone_no": "9003459707",
+        "shop_name": "Raja Traders",
+        "shop_type": "Buidling Materials"
+    },
+    {
+        "_id": 140028,
+        "address": "16, Dindugal road, Manapparai",
+        "map_loc": "10�36'21.7\"N+78�25'02.7\"E/@10.6060274,78.4168374,229m",
+        "phone_no": "9500514514",
+        "shop_name": "Sarani jewellers",
+        "shop_type": "Silver ornaments & Gold ornaments under orders"
+    },
+    {
+        "_id": 140029,
+        "address": "Dinduigal Road, Manapparai. Pin:621306",
+        "map_loc": "10�36'20.4\"N+78�25'04.2\"E/@10.605667,78.417242,214m",
+        "phone_no": "9444833895",
+        "shop_name": "Sidharth Super Market (SSM)",
+        "shop_type": "Super Market"
+    },
+    {
+        "_id": 140030,
+        "address": "Near Kurunji Hotel,Manapparai. Pin:621306",
+        "map_loc": "10�36'22.4\"N+78�25'07.0\"E/@10.60622,78.4180415,214m",
+        "phone_no": "4332263259",
+        "shop_name": "Sony Readymades & Sarees",
+        "shop_type": "Readymades and Sarees"
+    },
+    {
+        "_id": 140031,
+        "address": "Masthan Street, Manapparai. Pin:621306",
+        "map_loc": "10�36'24.7\"N+78�25'17.5\"E/@10.606852,78.420943,214m",
+        "phone_no": "9865480872",
+        "shop_name": "South India",
+        "shop_type": "Glass,Plywood,Paints & Hardwares"
+    },
+    {
+        "_id": 140032,
+        "address": "No.136, MP Complex, KovilPatty Road, Manapparai. Pin:621306",
+        "map_loc": "10�36'24.4\"N+78�25'30.1\"E/@10.606772,78.4244645,214m",
+        "phone_no": "4332261125",
+        "shop_name": "Sri Amman Digital Studio and Video",
+        "shop_type": "Digital Studio and Video"
+    },
+    {
+        "_id": 140033,
+        "address": "ChinnaiKadaveedhi, Manapparai. Pin:621306",
+        "map_loc": "Kattiam+Building/@10.6074158,78.4224469,214m",
+        "phone_no": "8144426053",
+        "shop_name": "Sri Angaalamman Stores",
+        "shop_type": "Household Electricals"
+    },
+    {
+        "_id": 140034,
+        "address": "Near Kovilpatti Road, Manapparai. Pin:621306",
+        "map_loc": "Sri+Kumaran+Cycle+Mart/@10.6070573,78.4227996,214m",
+        "phone_no": "9788465275",
+        "shop_name": "Sri Kumaran Cycle Showroom",
+        "shop_type": "Cycle Sales"
+    },
+    {
+        "_id": 140035,
+        "address": "Kovilpatti Road, Manapparai. Pin:621306",
+        "map_loc": "Sri+Kumarappa+Textiles/@10.6077545,78.4231783,214m",
+        "phone_no": "4332262119",
+        "shop_name": "Sri Kumarappa",
+        "shop_type": "Pattu Centre, Silks and Readymades"
+    },
+    {
+        "_id": 140036,
+        "address": "278/G-2, VLS Complex, Dindigul Road,Near Kurunji Hotel, Manapparai. Pin:621306",
+        "map_loc": "10�36'22.6\"N+78�25'07.5\"E/@10.60627,78.4181836,214m",
+        "phone_no": "9585149249",
+        "shop_name": "Star Line Mens & Womens",
+        "shop_type": "Readymades"
+    },
+    {
+        "_id": 140037,
+        "address": "Manickiam Towers, Dindugal Road, Manapparai. Pin:621306",
+        "map_loc": "10�36'22.7\"N+78�25'07.0\"E/@10.606318,78.4180436,214m",
+        "phone_no": "9791996414",
+        "shop_name": "Style walk",
+        "shop_type": "FootWear"
+    },
+    {
+        "_id": 140038,
+        "address": "No 208, Trichy Road, Manapparai. Pin : 621306",
+        "map_loc": "Sumangali+Silks/@10.608448,78.4225413,214m",
+        "phone_no": "4332261101",
+        "shop_name": "Sumangali",
+        "shop_type": "Textiles, Sarees, Apperels & Jewellers"
+    },
+    {
+        "_id": 140039,
+        "address": "Chinnakadai Street,Manapparai. Pin:621306",
+        "map_loc": "10�36'25.6\"N+78�25'22.4\"E/@10.607121,78.4222991,214m",
+        "phone_no": "9688883681",
+        "shop_name": "Sun Mobiles",
+        "shop_type": "Mobiles Sales and Service"
+    },
+    {
+        "_id": 140040,
+        "address": "No 28, Kattiyam Building, Chinna Kadai Veedhi, Manapparai. Pin:621306",
+        "map_loc": "10�36'30.4\"N+78�25'23.2\"E/@10.608448,78.4225413,214m",
+        "phone_no": "8925718071",
+        "shop_name": "Surya Covering",
+        "shop_type": "Covering Jewellery"
+    },
+    {
+        "_id": 140041,
+        "address": "ChinnaKadai Street, Manapparai. Pin:621306",
+        "map_loc": "10�36'26.9\"N+78�25'23.0\"E/@10.607484,78.4224974,203m",
+        "phone_no": "4332263525",
+        "shop_name": "VV Cards",
+        "shop_type": "Gift and Wedding cards"
+    },
+    {
+        "_id": 140042,
+        "address": "No 115,New Street, Manapparai. Pin:621306",
+        "map_loc": "Jam+Jam+Readymades/@10.6073287,78.4196953,215m",
+        "phone_no": "4332261170",
+        "shop_name": "Zam Zam Readymades & Sarees",
+        "shop_type": "Readymades & Sarees"
+    }
+]

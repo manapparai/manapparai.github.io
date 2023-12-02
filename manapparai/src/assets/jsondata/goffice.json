@@ -1,0 +1,198 @@
+[
+    {
+        "_id": 70001,
+        "address": "Kattupatti Government School, Manapparai. Pin:621306",
+        "goffice_name": "AEO Office Kathupatti",
+        "map_loc": "Manapparai,+Tamil+Nadu+621306/@10.6129459,78.4118538,6951m",
+        "phone_no": "4332294111"
+    },
+    {
+        "_id": 70002,
+        "address": "Taluk Office Opposite, Trichy Road, Manapparai. Pin:621306",
+        "goffice_name": "Agriculture Office",
+        "map_loc": "10�36'31.1\"N+78�25'18.1\"E/@10.6086444,78.4211292,229m",
+        "phone_no": "4332260541"
+    },
+    {
+        "_id": 70003,
+        "address": "Taluk Office Opposite, Trichy Road, Manapparai. Pin:621306",
+        "goffice_name": "Animal Husbandary / Veternary Despensary",
+        "map_loc": "10�36'31.1\"N+78�25'18.1\"E/@10.6086444,78.4211292,229m",
+        "phone_no": "4332"
+    },
+    {
+        "_id": 70004,
+        "address": "Madurai Road, Manapparai. Pin:621306",
+        "goffice_name": "Assitant Engineer TWAD Board",
+        "map_loc": "10�36'11.4\"N+78�24'59.4\"E/@10.6031603,78.4155337,385m",
+        "phone_no": "4332263096"
+    },
+    {
+        "_id": 70005,
+        "address": "Manapparaipatti Road, Telephone Exchange, Manapparai. Pin:621306",
+        "goffice_name": "BSNL Office",
+        "map_loc": "10�36'14.3\"N+78�25'22.0\"E/@10.6041002,78.4222322,229m",
+        "phone_no": "4332260198"
+    },
+    {
+        "_id": 70006,
+        "address": "Kovilpatti Road, Manapparai. Pin:621306",
+        "goffice_name": "Central Milk Production Society",
+        "map_loc": "10�36'19.4\"N+78�25'36.2\"E/@10.6053934,78.4261351,229m",
+        "phone_no": "4332260530"
+    },
+    {
+        "_id": 70007,
+        "address": "Madurai Road, Manapparai. Pin:621306",
+        "goffice_name": "Commercial Tax Office",
+        "map_loc": "Manapparai+Municipality+Office,+SH+71A,+Manapparai,+Tamil+Nadu+621306/@10.6044513,78.4165122,229m",
+        "phone_no": "4332260552"
+    },
+    {
+        "_id": 70008,
+        "address": "Fathima Malai, Madurai Road, Manapparai. Pin:621306",
+        "goffice_name": "Deputy Superintent of Police",
+        "map_loc": "10�35'45.4\"N+78�24'56.1\"E/@10.5959334,78.4150104,230m",
+        "phone_no": "4332260532"
+    },
+    {
+        "_id": 70009,
+        "address": "Madurai Road, Manapparai. Pin:621306",
+        "goffice_name": "Fire and Rescue Operations Department",
+        "map_loc": "10�35'49.8\"N+78�24'39.8\"E/@10.5971748,78.4099139,457m",
+        "phone_no": "4332260501"
+    },
+    {
+        "_id": 70010,
+        "address": "Vadugapatti, Manapparai",
+        "goffice_name": "Forest Department",
+        "map_loc": "Vadagupatti,+Tamil+Nadu/@10.6044164,78.4041213,3476m",
+        "phone_no": "4332"
+    },
+    {
+        "_id": 70011,
+        "address": "Bharathiyar Nagar, Manapparai. Pin:621306",
+        "goffice_name": "Government Hospital",
+        "map_loc": "Manaparai+Government+Hospital/@10.604329,78.4371961,273m",
+        "phone_no": "4332260518"
+    },
+    {
+        "_id": 70012,
+        "address": "Dindugal Road, Manapparai. Pin:621306",
+        "goffice_name": "Life Insurance Corporation f India",
+        "map_loc": "10�36'22.3\"N+78�25'05.5\"E/@10.6062034,78.4176042,230m",
+        "phone_no": "4332262424"
+    },
+    {
+        "_id": 70013,
+        "address": "Taluk Office Compond, Manapparai. Pin:621306",
+        "goffice_name": "Manapparai Model Police Station",
+        "map_loc": "Manaparai+Police+Station/@10.6080918,78.4213042,229m",
+        "phone_no": "4332260500"
+    },
+    {
+        "_id": 70014,
+        "address": "Madurai Road, Manapparai. Pin:621306",
+        "goffice_name": "Municipal Administrate",
+        "map_loc": "Manapparai+Municipality+Office,+SH+71A,+Manapparai,+Tamil+Nadu+621306/@10.6044513,78.4165122,229m",
+        "phone_no": "4332260242"
+    },
+    {
+        "_id": 70015,
+        "address": "Taluk Office Opposite, Trichy Road, Manapparai. Pin:621306",
+        "goffice_name": "Panchayat Union",
+        "map_loc": "10�36'31.1\"N+78�25'18.1\"E/@10.6086444,78.4211292,229m",
+        "phone_no": "4332260389"
+    },
+    {
+        "_id": 70016,
+        "address": "Dindugal Road, Manapparai. Pin:621306",
+        "goffice_name": "Post Office",
+        "map_loc": "Post+Office/@10.6053127,78.4156981,19.5z",
+        "phone_no": "4332"
+    },
+    {
+        "_id": 70017,
+        "address": "Bus stand Opposite, Manapparai. Pin:621306",
+        "goffice_name": "Public Works Department (Construction)",
+        "map_loc": "10�36'24.4\"N+78�25'08.7\"E/@10.6067854,78.4185012,229m",
+        "phone_no": "4332"
+    },
+    {
+        "_id": 70018,
+        "address": "Bus stand Opposite, Manapparai. Pin:621306",
+        "goffice_name": "Public Works Department (Highway)",
+        "map_loc": "10�36'24.4\"N+78�25'08.7\"E/@10.6067854,78.4185012,229m",
+        "phone_no": "4332260035"
+    },
+    {
+        "_id": 70019,
+        "address": "Near Muniappan Kulam, Idatheru, Manapparai. Pin:621306",
+        "goffice_name": "Public Works Department (Irrigation)",
+        "map_loc": "10�36'24.4\"N+78�25'09.2\"E/@10.6067893,78.4170423,869m",
+        "phone_no": "4332263096"
+    },
+    {
+        "_id": 70020,
+        "address": "Bharathiyar Nagar, Manapparai. Pin:621306",
+        "goffice_name": "Sidha Medince Dept, Government Hospital",
+        "map_loc": "Manaparai+Government+Hospital/@10.604329,78.4371961,273m",
+        "phone_no": "4332260518"
+    },
+    {
+        "_id": 70021,
+        "address": "Muthupudaiyanpatti, Kulithalai Road, Manapparai. Pin:621306",
+        "goffice_name": "Sub Regional Transport Office",
+        "map_loc": "10�38'53.4\"N+78�25'39.7\"E/@10.6481769,78.4269161,310m",
+        "phone_no": "9443349696"
+    },
+    {
+        "_id": 70022,
+        "address": "Near Mariyamman kovil, Trichy Road, Manapparai. Pin:621306",
+        "goffice_name": "Sub Registrar Office",
+        "map_loc": "Taluk+Office/@10.6080602,78.4219713,229m",
+        "phone_no": "4332262696"
+    },
+    {
+        "_id": 70023,
+        "address": "Near Mariyamman kovil, Trichy Road, Manapparai. Pin:621306",
+        "goffice_name": "Taluk Supply Office",
+        "map_loc": "Taluk+Office/@10.6080602,78.4219713,229m",
+        "phone_no": "4332260576"
+    },
+    {
+        "_id": 70024,
+        "address": "Manapparaipatti Road, Telephone Exchange, Manapparai. Pin:621306",
+        "goffice_name": "Tamilnadu Electricity Board (TNEB)",
+        "map_loc": "10�36'16.9\"N+78�25'23.2\"E/@10.6047004,78.4225341,229m",
+        "phone_no": "4332260556"
+    },
+    {
+        "_id": 70025,
+        "address": "Near Trichy Road Bridge, Manapparai. Pin:621306",
+        "goffice_name": "Tamilnadu State Transport Corporation (TNSTC)",
+        "map_loc": "10�36'43.4\"N+78�25'30.9\"E/@10.6120536,78.4245926,258m",
+        "phone_no": "4332267051"
+    },
+    {
+        "_id": 70026,
+        "address": "Near Mariyamman kovil, Trichy Road, Manapparai. Pin:621306",
+        "goffice_name": "Thahsildar cum Taluk Executive Magistrate",
+        "map_loc": "Taluk+Office/@10.6080602,78.4219713,229m",
+        "phone_no": "4332260576"
+    },
+    {
+        "_id": 70027,
+        "address": "Kovilpatti Road, Manapparai. Pin:621306",
+        "goffice_name": "The Judicial Magistrate (Civil)",
+        "map_loc": "10�36'21.8\"N+78�25'33.2\"E/@10.6060723,78.4237033,869m",
+        "phone_no": "4332261119"
+    },
+    {
+        "_id": 70028,
+        "address": "Near Cattle Market, Trichy Road, Manapparai. Pin:621306",
+        "goffice_name": "The Judicial Magistrate (Crime)",
+        "map_loc": "10�36'42.9\"N+78�25'27.1\"E/@10.6119181,78.4228883,519m",
+        "phone_no": "4332260091"
+    }
+]

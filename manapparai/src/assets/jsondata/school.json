@@ -1,0 +1,106 @@
+[
+    {
+        "_id": 130001,
+        "address": "Madurai Road, Manaparai Pin:621306",
+        "map_loc": "Kassim+school/@10.6043652,78.4177524,19.5z",
+        "phone_no": "4332262932",
+        "school_name": "Govt. Hr. Sec. School",
+        "service_type": "Government"
+    },
+    {
+        "_id": 130002,
+        "address": "Poun Nagar, Pannankombu, Manapparai Pin:621306",
+        "map_loc": "Cauvery+International+School,+SH+71A,+Pannapatti+East,+Tamil+Nadu+621306/@10.5431053,78.3982289,17z",
+        "phone_no": "9443410115",
+        "school_name": "Cauvery International School",
+        "service_type": "Private"
+    },
+    {
+        "_id": 130003,
+        "address": "Kovilpatty Road, Manaparai Pin:621306",
+        "map_loc": "Lakshmi+Matriculation+Higher+Secondary+School/@10.6049199,78.426761,252m",
+        "phone_no": "4332260279",
+        "school_name": "Lakshmi Matric. Hr. Sec. School",
+        "service_type": "Private"
+    },
+    {
+        "_id": 130004,
+        "address": "Dindigul Road, Manaparai Pin:621306",
+        "map_loc": "Little+Flower+Girls+Higher+Secondary+School/@10.6050522,78.4169595,254m",
+        "phone_no": "4332260370",
+        "school_name": "Little Flower Girls Hr. Sec. School",
+        "service_type": "Government"
+    },
+    {
+        "_id": 130005,
+        "address": "Dindigul road, Manjampatty. Pin:621306",
+        "map_loc": "10�36'09.4\"N+78�24'06.7\"E/@10.602619,78.4010374,300m",
+        "phone_no": "4332260991",
+        "school_name": "Montfort Matriculation Higher Secondary School",
+        "service_type": "Private"
+    },
+    {
+        "_id": 130006,
+        "address": "Near Mariamman koil Pin:621306",
+        "map_loc": "Manapparai,+Tamil+Nadu+621306/@10.6129037,78.4118538,6491m",
+        "phone_no": "4332",
+        "school_name": "Municipal Middle School",
+        "service_type": "Government"
+    },
+    {
+        "_id": 130007,
+        "address": "Bharathi Nagar,Viramalai Road,Manapparai. Pin:621306",
+        "map_loc": "Manapparai,+Tamil+Nadu+621306/@10.6129037,78.4118538,6491m",
+        "phone_no": "9894695450",
+        "school_name": "Sowma Public School",
+        "service_type": "Private"
+    },
+    {
+        "_id": 130008,
+        "address": "Dindigul Road, Manaparai Pin:621306",
+        "map_loc": "St.+Andrew's+Higher+Secondary+School/@10.6045527,78.4121382,811m",
+        "phone_no": "4332260067",
+        "school_name": "St. Andrew's Hr. Sec. School",
+        "service_type": "Private"
+    },
+    {
+        "_id": 130009,
+        "address": "Dindigul Road, Manjampatty, Manaparai Pin:621306",
+        "map_loc": "10�35'54.4\"N+78�23'53.8\"E/@10.598441,78.3964409,683m",
+        "phone_no": "4332262372",
+        "school_name": "St. Antony's Hr. Sec. School",
+        "service_type": "Private"
+    },
+    {
+        "_id": 130010,
+        "address": "Kovilpatty Road, Usilampatty Village, Manaparai Pin:621312",
+        "map_loc": "Manapparai,+Tamil+Nadu+621306/@10.6129037,78.4118538,6491m",
+        "phone_no": "4332260995",
+        "school_name": "Thiagesar Alai Hr. Sec. School",
+        "service_type": "Private"
+    },
+    {
+        "_id": 130011,
+        "address": "Madurai Road, Valandu Kaikatty, Manapparai Pin:621306 ",
+        "map_loc": "Vidiyal+Matriculation+Higher+Secondary+School/@10.4816967,78.4603225,1368m/",
+        "phone_no": "9363372701",
+        "school_name": "Vidiyal Matriculation Hr. Sec. School",
+        "service_type": "Private"
+    },
+    {
+        "_id": 130012,
+        "address": "Viralimali Road, Manaparai Pin:621306",
+        "map_loc": "Manapparai,+Tamil+Nadu+621306/@10.6129037,78.4118538,6491m",
+        "phone_no": "4332",
+        "school_name": "Vinmathee Hr.Sec. School",
+        "service_type": "Private"
+    },
+    {
+        "_id": 130013,
+        "address": "Manapparai patti road, Manapparai. Pin : 621306",
+        "map_loc": "Sri+Guru+Matric+Higher+Secondary+School/@10.5955421,78.4214091,17z",
+        "phone_no": "4332",
+        "school_name": "Sri Guru Higher Sec School",
+        "service_type": "Private"
+    }
+]

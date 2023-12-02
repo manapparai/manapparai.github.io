@@ -1,0 +1,34 @@
+[
+    {
+        "_id": 100001,
+        "address": "Opposite to Lakshmi School, Kovilpatti Road,Manapparai,Trichy. Pin : 621306",
+        "map_loc": "10�36'13.7\"N+78�25'38.4\"E/@10.6038064,78.426767,229m",
+        "owner_name": "for Men",
+        "parlour_name": "Natural Beauty Care",
+        "phone_no": "9894895107"
+    },
+    {
+        "_id": 100002,
+        "address": "Madurai Road, Manapparai,Trichy. Pin : 621306",
+        "map_loc": "10�36'14.9\"N+78�25'01.9\"E/@10.6041825,78.4169251,229m",
+        "owner_name": "for Men",
+        "parlour_name": "Hi-Cut Saloon",
+        "phone_no": "9786449249"
+    },
+    {
+        "_id": 100003,
+        "address": "Madurai Road, Manapparai,Trichy. Pin : 621306",
+        "map_loc": "10�36'14.3\"N+78�25'03.8\"E/@10.6039784,78.4171311,229m",
+        "owner_name": "for Women",
+        "parlour_name": "Chithra Beauty Parlour",
+        "phone_no": "9787418488"
+    },
+    {
+        "_id": 100004,
+        "address": "Near Telephone Exchange, Manapparaipatti Road, Manapparai. Pin:621306",
+        "map_loc": "10�36'13.2\"N+78�25'22.1\"E/@10.6036763,78.4222608,217m",
+        "owner_name": "for Women",
+        "parlour_name": "New Famous Beauty Parlour",
+        "phone_no": "9965231909"
+    }
+]

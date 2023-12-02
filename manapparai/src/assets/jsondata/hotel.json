@@ -1,0 +1,90 @@
+[
+    {
+        "_id": 80001,
+        "address": "168/4, Dinduigul Road,Manapparai. Pin:621306",
+        "hotel_name": "Kurinji Hotel",
+        "map_loc": "kurungi+restaurant/@10.6063577,78.4192985,214m",
+        "phone_no": "4332263400",
+        "services_offered": "Non veg Food"
+    },
+    {
+        "_id": 80002,
+        "address": "27 Madurai Road,Manapparai. Pin:621306",
+        "hotel_name": "Amma Saiva Unavagam",
+        "map_loc": "10�36'19.4\"N+78�25'08.3\"E/@10.605388,78.4183872,214m",
+        "phone_no": "43322604640",
+        "services_offered": "Veg Food"
+    },
+    {
+        "_id": 80003,
+        "address": "22/1, Siva Complex, Kovilpatti Road,Manapparai. Pin:621306",
+        "hotel_name": "Babu Mittai Kadai",
+        "map_loc": "10�36'27.8\"N+78�25'26.0\"E/@10.607711,78.4233173,214m",
+        "phone_no": "9842878532",
+        "services_offered": "Homemade Snacks"
+    },
+    {
+        "_id": 80004,
+        "address": "Bus stand Opposite, Manapparai. Pin:621306",
+        "hotel_name": "Banaras Hotel",
+        "map_loc": "10�36'23.6\"N+78�25'10.7\"E/@10.606544,78.4190612,214m",
+        "phone_no": "9786760875",
+        "services_offered": "Non Veg"
+    },
+    {
+        "_id": 80005,
+        "address": "Gangaaniyaar complex,Madurai Road,Manapparai. Pin:621306",
+        "hotel_name": "Kokkarakko Restaurant",
+        "map_loc": "10�36'19.0\"N+78�25'05.5\"E/@10.605273,78.4176083,214m",
+        "phone_no": "9791560411",
+        "services_offered": "Veg/Non Veg"
+    },
+    {
+        "_id": 80006,
+        "address": "Bus stand Opposite, Manapparai. Pin:621306",
+        "hotel_name": "Kumara vilas Hotel",
+        "map_loc": "10�36'23.8\"N+78�25'11.0\"E/@10.606605,78.4191432,214m",
+        "phone_no": "4332260285",
+        "services_offered": "Veg"
+    },
+    {
+        "_id": 80007,
+        "address": "Church Complex,Manapparai. Pin:621306",
+        "hotel_name": "Master Bakery & Sweets",
+        "map_loc": "10�36'27.7\"N+78�25'16.5\"E/@10.607705,78.4206625,214m",
+        "phone_no": "4332262870",
+        "services_offered": "Cakes & Snacks"
+    },
+    {
+        "_id": 80008,
+        "address": "Kovilpatti Road, Manapparai. Pin:621306",
+        "hotel_name": "Nalam Hotel",
+        "map_loc": "Nalam+Unavagam/@10.606392,78.4256529,214m/",
+        "phone_no": "",
+        "services_offered": "Veg and Non Veg"
+    },
+    {
+        "_id": 80009,
+        "address": "RR Complex, Green Super Market first floor, Trichy - Dindigul Byepass, Opp Vegetable Market, Manapparai. Pin:621306",
+        "hotel_name": "RR Lodge",
+        "map_loc": "Green+Super+Market/@10.6107535,78.4175941,361m",
+        "phone_no": "9750256029",
+        "services_offered": "Lodge"
+    },
+    {
+        "_id": 80010,
+        "address": "Near maariyamman Kovil, Trichy Road, Manapparai. Pin:621306",
+        "hotel_name": "Somu Mess",
+        "map_loc": "10�36'32.2\"N+78�25'22.3\"E/@10.608957,78.4222944,214m",
+        "phone_no": "",
+        "services_offered": "Veg Hotel"
+    },
+    {
+        "_id": 80011,
+        "address": "Pudhu Theru, Manapparai. Pin:621306",
+        "hotel_name": "Sri Renuka Hotel",
+        "map_loc": "10�36'26.5\"N+78�25'13.6\"E/@10.607363,78.4198752,214m",
+        "phone_no": "4332262022",
+        "services_offered": "Veg and Non Veg"
+    }
+]

@@ -1,1 +1,6 @@
-<p>home works!</p>
+<h2>Category List</h2>
+<ul>
+    <li *ngFor="let file of fileData" (click)="navigateToDetail(file)">
+    {{ file.uiName }}
+    </li>
+</ul>

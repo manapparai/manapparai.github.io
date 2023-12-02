@@ -1,0 +1,98 @@
+[
+    {
+        "_id": 90001,
+        "address": "Manapparai. Pin:621306",
+        "mahal_name": "Arangar Thirumana Mandabam",
+        "map_loc": "Manapparai,+Tamil+Nadu+621306/@10.6129037,78.4118538,6491m",
+        "owner_name": "Periyasamy",
+        "phone_no": "9443556058"
+    },
+    {
+        "_id": 90002,
+        "address": "Manapparai. Pin:621306",
+        "mahal_name": "Balaji Mandabam",
+        "map_loc": "10�36'18.1\"N+78�25'25.6\"E/@10.605037,78.4232009,214m",
+        "owner_name": "Chokkalingam",
+        "phone_no": "8925333149"
+    },
+    {
+        "_id": 90003,
+        "address": "Vinmathi School Opposite,Manapparai. Pin:621306",
+        "mahal_name": "Kaamaraajar Thirumana Mandabam",
+        "map_loc": "Manapparai,+Tamil+Nadu+621306/@10.6129037,78.4118538,14z",
+        "owner_name": "Vellaiammal",
+        "phone_no": "9750175351"
+    },
+    {
+        "_id": 90004,
+        "address": "Kabasthan Palli vasal Opposite",
+        "mahal_name": "Kaiyal Nayahi",
+        "map_loc": "Manapparai,+Tamil+Nadu+621306/@10.6129037,78.4118538,14z",
+        "owner_name": "Shiva",
+        "phone_no": "9442661035"
+    },
+    {
+        "_id": 90005,
+        "address": "Gandhi Nagar, Manapparai. Pin:621306",
+        "mahal_name": "Lena Mahal",
+        "map_loc": "Manapparai,+Tamil+Nadu+621306/@10.6129037,78.4118538,14z",
+        "owner_name": "Ponnan",
+        "phone_no": "9976481144"
+    },
+    {
+        "_id": 90006,
+        "address": "Near Balakrishna Theater,Viralimalai Road,Manapparai. Pin:621306",
+        "mahal_name": "M.S Nadar Mandabam",
+        "map_loc": "10�36'23.7\"N+78�25'39.1\"E/@10.606572,78.4264407,18z",
+        "owner_name": "Nadar",
+        "phone_no": "9443301265"
+    },
+    {
+        "_id": 90007,
+        "address": "Near Trichy Road Bridge,Pothamettupatti,Manapparai. Pin:621306",
+        "mahal_name": "M.S.B Thirumana Mandabam",
+        "map_loc": "10�36'33.7\"N+78�25'24.7\"E/@10.609372,78.4228883,18z",
+        "owner_name": "M.S.B",
+        "phone_no": "9952135477"
+    },
+    {
+        "_id": 90008,
+        "address": "Near Balakrishna Theater,Viralimalai Road,Manapparai. Pin:621306",
+        "mahal_name": "Maariyamman Thirumana Mandabam",
+        "map_loc": "10�36'23.7\"N+78�25'39.1\"E/@10.606572,78.4264407,18z",
+        "owner_name": "R.V.S Mani",
+        "phone_no": "9842460534"
+    },
+    {
+        "_id": 90009,
+        "address": "Near Balakrishna Theater,Viralimalai Road,Manapparai. Pin:621306",
+        "mahal_name": "Mahalakshmi Thirumana Mandabam",
+        "map_loc": "Mahalakshmi+Thirumana+Mahal/@10.6069257,78.4270576,214m",
+        "owner_name": "P.Subhaiah",
+        "phone_no": "9443484043"
+    },
+    {
+        "_id": 90010,
+        "address": "Near Telephone Exchange,Manapparai Patti Road,Manapparai. Pin:621306",
+        "mahal_name": "RV Mahal",
+        "map_loc": "R.V+Thirmana+Mahal/@10.6046389,78.4228094,214m",
+        "owner_name": "Venkateshan",
+        "phone_no": "9442851422"
+    },
+    {
+        "_id": 90011,
+        "address": "Opposite to Kalai Arasan Hospital,Manapparai. Pin:621306",
+        "mahal_name": "Udhayam A/C Mahal",
+        "map_loc": "10�36'13.7\"N+78�25'03.1\"E/@10.603818,78.416941,214m",
+        "owner_name": "Elangoven",
+        "phone_no": "9842713308"
+    },
+    {
+        "_id": 90012,
+        "address": "Chinnakadai Street, Manapparai. Pin:621306",
+        "mahal_name": "AKS",
+        "map_loc": "AKS+Marriage+hall/@10.6062981,78.4218044,18.5z",
+        "owner_name": "Abdul Malik",
+        "phone_no": "9443301265"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "_id": 160001,
+        "arrival_time": "05:08AM",
+        "depart_time": "05:10AM",
+        "map_loc": "Manaparai+Railway+Station/@10.607553,78.4176602,214m",
+        "train_from": "Madurai",
+        "train_name": "Madurai - Villupuram Passenger",
+        "train_no": "56706",
+        "train_to": "Viluppuram"
+    },
+    {
+        "_id": 160002,
+        "arrival_time": "07:28AM",
+        "depart_time": "07:30AM",
+        "map_loc": "Manaparai+Railway+Station/@10.607553,78.4176602,214m",
+        "train_from": "Dindigul",
+        "train_name": "Dindigul -Tiruchirappalli Passenger",
+        "train_no": "56704",
+        "train_to": "Tiruchirapalli"
+    },
+    {
+        "_id": 160003,
+        "arrival_time": "12:34PM",
+        "depart_time": "12:35PM",
+        "map_loc": "Manaparai+Railway+Station/@10.607553,78.4176602,214m",
+        "train_from": "Tirunelveli",
+        "train_name": "Tirunelveli - Mayiladuturai Passenger",
+        "train_no": "56822",
+        "train_to": "Mayiladuthurai"
+    },
+    {
+        "_id": 160004,
+        "arrival_time": "NA",
+        "depart_time": "13:05PM",
+        "map_loc": "Manaparai+Railway+Station/@10.607553,78.4176602,214m",
+        "train_from": "Guruvayur",
+        "train_name": "Guruvayur Chennai Express",
+        "train_no": "16128",
+        "train_to": "Chennai"
+    },
+    {
+        "_id": 160005,
+        "arrival_time": "NA",
+        "depart_time": "22:25PM",
+        "map_loc": "Manaparai+Railway+Station/@10.607553,78.4176602,214m",
+        "train_from": "Madurai",
+        "train_name": "Pandian Express",
+        "train_no": "12638",
+        "train_to": "Chennai"
+    },
+    {
+        "_id": 160006,
+        "arrival_time": "14:29PM",
+        "depart_time": "14:30PM",
+        "map_loc": "Manaparai+Railway+Station/@10.607553,78.4176602,214m",
+        "train_from": "Mayiladuthurai",
+        "train_name": "Mayiladuturai - Tirunelveli Passenger",
+        "train_no": "56821",
+        "train_to": "Tirunelveli"
+    },
+    {
+        "_id": 160007,
+        "arrival_time": "NA",
+        "depart_time": "13:45PM",
+        "map_loc": "Manaparai+Railway+Station/@10.607553,78.4176602,214m",
+        "train_from": "Chennai",
+        "train_name": "Chennai Egmore Guruvayur Express",
+        "train_no": "16127",
+        "train_to": "Guruvayur"
+    },
+    {
+        "_id": 160008,
+        "arrival_time": "19:00PM",
+        "depart_time": "19:02PM",
+        "map_loc": "Manaparai+Railway+Station/@10.607553,78.4176602,214m",
+        "train_from": "Tiruchirappalli",
+        "train_name": "Tiruchirappalli Dindigul Passenger",
+        "train_no": "56703",
+        "train_to": "Dindigul"
+    },
+    {
+        "_id": 160009,
+        "arrival_time": "21:03PM",
+        "depart_time": "21:05PM",
+        "map_loc": "Manaparai+Railway+Station/@10.607553,78.4176602,214m",
+        "train_from": "Viluppuram",
+        "train_name": "Villupuram - Madurai Passenger",
+        "train_no": "56705",
+        "train_to": "Madurai"
+    },
+    {
+        "_id": 160010,
+        "arrival_time": "NA",
+        "depart_time": "03:45PM",
+        "map_loc": "Manaparai+Railway+Station/@10.607553,78.4176602,214m",
+        "train_from": "Chennai",
+        "train_name": "Pandian Express",
+        "train_no": "12637",
+        "train_to": "Madurai"
+    }
+]

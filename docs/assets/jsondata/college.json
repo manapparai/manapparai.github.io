@@ -1,0 +1,58 @@
+[
+    {
+        "_id": 30001,
+        "address": "Aathavan Nagar, Dindigul Road, Alathur, Manapparai Taluk. Pin:621306",
+        "college_name": "Aadhavan College of Arts & Science",
+        "college_type": "Arts & Science",
+        "map_loc": "Aadhavan+College+of+Arts+%26+Science/@10.5086096,78.6282241,812m",
+        "phone_no": "4332262680"
+    },
+    {
+        "_id": 30002,
+        "address": "National High way Trichy main Road, Vinmathee Nagar, Muthapudaiyanpatti (post), Manapparai. Pin:621306",
+        "college_name": "Jeevan College of Education",
+        "college_type": "B.Ed/M.Ed",
+        "map_loc": "Jeevan+College+of+Education/@10.6073703,78.4208833,214m",
+        "phone_no": "4332267394"
+    },
+    {
+        "_id": 30003,
+        "address": "National High way Trichy main Road, Vinmathi Nagar, Muthapudaiyanpatti post Manaparai. Pin:621306",
+        "college_name": "Jeevan Teacher Training Institute",
+        "college_type": "Teacher Training",
+        "map_loc": "Jeevan+College+of+Education/@10.6073703,78.4208833,214m",
+        "phone_no": "4332267394"
+    },
+    {
+        "_id": 30004,
+        "address": "Kulithalai road, Kannudaiyanpatty Village, Manapparai. Pin:621306",
+        "college_name": "KARTHIKEYA POLYTECHNIC COLLEGE",
+        "college_type": "Polytechnic",
+        "map_loc": "Karthikeya+Polytechnic+College/@10.6288488,78.4282422,811m",
+        "phone_no": "4332267055"
+    },
+    {
+        "_id": 30005,
+        "address": "Dindigul Road, Malaiyadipatty, Manapparai. Pin:621307",
+        "college_name": "Kurinji College of Engineering and Technology",
+        "college_type": "Engineering",
+        "map_loc": "Kurinji+College+of+Engineering+and+Technology/@10.5877834,78.3723937,482m",
+        "phone_no": "4332260488"
+    },
+    {
+        "_id": 30006,
+        "address": "Dindigul Road, Manjampatty, Manaparai. Pin:621307",
+        "college_name": "St.John's I.T.I",
+        "college_type": "ITI Courses",
+        "map_loc": "St.+John's+Industrial+Training+Institute/@10.6025701,78.3996169,486m",
+        "phone_no": "4332260354"
+    },
+    {
+        "_id": 30007,
+        "address": "1/191.1 vairampatty south vaiyampatty manapparai Taluk",
+        "college_name": "Surya Nursing College",
+        "college_type": "Nursing",
+        "map_loc": "Vaiampatti,+Tamil+Nadu+621315/@10.5512295,78.2982945,16z",
+        "phone_no": "9443494415"
+    }
+]

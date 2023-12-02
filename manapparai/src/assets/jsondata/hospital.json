@@ -1,0 +1,202 @@
+[
+    {
+        "_id": 70001,
+        "address": "Vandipettai Street (Police line), Manapparai Pin:621306",
+        "doctor_name": "Dr.Arivazhahan",
+        "hospital_name": "AG Hospital",
+        "map_loc": "10�36'21.3\"N+78�25'08.4\"E/@10.605926,78.4181924,325m",
+        "phone_no": "9842472470"
+    },
+    {
+        "_id": 70002,
+        "address": "Madurai Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Nasrudeen",
+        "hospital_name": "Anbu Clinic",
+        "map_loc": "10�36'21.3\"N+78�25'08.4\"E/@10.605926,78.4181924,325m",
+        "phone_no": "4332260030"
+    },
+    {
+        "_id": 70003,
+        "address": "Madurai Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Manjula",
+        "hospital_name": "Annai Clinic",
+        "map_loc": "10�36'21.3\"N+78�25'08.4\"E/@10.605926,78.4181924,325m",
+        "phone_no": "4332262277"
+    },
+    {
+        "_id": 70004,
+        "address": "Trichy Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Balaji",
+        "hospital_name": "Balaji Nursing home",
+        "map_loc": "10�36'21.3\"N+78�25'08.4\"E/@10.605926,78.4181924,325m",
+        "phone_no": "4332260517"
+    },
+    {
+        "_id": 70005,
+        "address": "Govindharajapuram, Kovil patti road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Sekar",
+        "hospital_name": "Chithra Clinic",
+        "map_loc": "10�36'21.3\"N+78�25'08.4\"E/@10.605926,78.4181924,325m",
+        "phone_no": "4332260370"
+    },
+    {
+        "_id": 70006,
+        "address": "Ramasamy Street, Manapparai Pin:621306",
+        "doctor_name": "Dr.Ragunadhan",
+        "hospital_name": "Dayal Narasimam",
+        "map_loc": "10�36'21.3\"N+78�25'08.4\"E/@10.605926,78.4181924,325m",
+        "phone_no": "9443160041"
+    },
+    {
+        "_id": 70007,
+        "address": "Trichy Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Murugasen",
+        "hospital_name": "G.K.M Hospital",
+        "map_loc": "GKM+Hospital/@10.6124948,78.4252728,229m",
+        "phone_no": "4332267056"
+    },
+    {
+        "_id": 70008,
+        "address": "Bharathiyar Nagar, Manapparai. Pin:621306",
+        "doctor_name": "Helpline",
+        "hospital_name": "Government Hospital",
+        "map_loc": "Manaparai+Government+Hospital/@10.604329,78.4371961,273m",
+        "phone_no": "4332260518"
+    },
+    {
+        "_id": 70009,
+        "address": "Madurai Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Selvam",
+        "hospital_name": "Guru Dev Medical Centre",
+        "map_loc": "10�36'21.3\"N+78�25'08.4\"E/@10.605926,78.4181924,325m",
+        "phone_no": "4332262626"
+    },
+    {
+        "_id": 70010,
+        "address": "Madurai Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Jayalakshmi",
+        "hospital_name": "Jayalakshmi Clinic",
+        "map_loc": "10�36'21.3\"N+78�25'08.4\"E/@10.605926,78.4181924,325m",
+        "phone_no": "9750589766"
+    },
+    {
+        "_id": 70011,
+        "address": "Dindugal Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Paalvannan",
+        "hospital_name": "Jeyaram Hospital",
+        "map_loc": "10�36'20.3\"N+78�25'04.5\"E/@10.6056424,78.4173429,229m",
+        "phone_no": "8940999897"
+    },
+    {
+        "_id": 70012,
+        "address": "Trichy Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Muthu Karthikeyan",
+        "hospital_name": "K.R.Ortho Clinic",
+        "map_loc": "10�36'21.3\"N+78�25'08.4\"E/@10.605926,78.4181924,325m",
+        "phone_no": "8754538511"
+    },
+    {
+        "_id": 70013,
+        "address": "Kovilpatti Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Brindha",
+        "hospital_name": "Kavi Hospital",
+        "map_loc": "10�36'21.3\"N+78�25'08.4\"E/@10.605926,78.4181924,325m",
+        "phone_no": "4332"
+    },
+    {
+        "_id": 70014,
+        "address": "Near Super Biryani, Madurai Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Manohar",
+        "hospital_name": "Manohar Hospital",
+        "map_loc": "10�36'19.5\"N+78�25'08.3\"E/@10.60543,78.4181441,325m",
+        "phone_no": "4332260087"
+    },
+    {
+        "_id": 70015,
+        "address": "Madurai Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.M.M.Kasim",
+        "hospital_name": "MMK Hospital",
+        "map_loc": "Kassim+Hospital/@10.6043842,78.4173647,231m",
+        "phone_no": "4332260044"
+    },
+    {
+        "_id": 70016,
+        "address": "Madurai Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.SK Renganathan",
+        "hospital_name": "Mohan Das Hospital",
+        "map_loc": "10�36'12.3\"N+78�25'01.4\"E/@10.6034264,78.4164643,231m",
+        "phone_no": "4332262616"
+    },
+    {
+        "_id": 70017,
+        "address": "Viralimalai Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Raja Mohamed",
+        "hospital_name": "Noor Ayurvedhic Hospital",
+        "map_loc": "10�36'23.5\"N+78�25'38.6\"E/@10.6065224,78.4268222,229m",
+        "phone_no": "9994280657"
+    },
+    {
+        "_id": 70018,
+        "address": "Madurai Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Das",
+        "hospital_name": "Ratna Das Hospital",
+        "map_loc": "10�36'20.9\"N+78�25'09.2\"E/@10.6059179,78.4187388,229m",
+        "phone_no": "4332260491"
+    },
+    {
+        "_id": 70019,
+        "address": "Madurai Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Ratnavel",
+        "hospital_name": "Ratna Physiotherapy",
+        "map_loc": "10�36'19.1\"N+78�25'08.2\"E/@10.6053154,78.4183565,229m",
+        "phone_no": "9842331164"
+    },
+    {
+        "_id": 70020,
+        "address": "Madurai Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Kalai Arasan",
+        "hospital_name": "Sindhuja Hospital",
+        "map_loc": "Sinduja+Hospital,+SH+71A,+Manapparai,+Tamil+Nadu+621306/@10.6040532,78.4162084,231m",
+        "phone_no": "4332263101"
+    },
+    {
+        "_id": 70021,
+        "address": "Manapparai Patti Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.William Andrews",
+        "hospital_name": "SRM Hospital",
+        "map_loc": "10�36'18.0\"N+78�25'23.6\"E/@10.6049904,78.4226393,230m",
+        "phone_no": "4332263626"
+    },
+    {
+        "_id": 70022,
+        "address": "Madurai Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Suresh",
+        "hospital_name": "Sugam Clinic",
+        "map_loc": "10�36'21.3\"N+78�25'08.4\"E/@10.605926,78.4181924,325m",
+        "phone_no": "4332260055"
+    },
+    {
+        "_id": 70023,
+        "address": "Dindugal Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Sumitra Gunnalahan",
+        "hospital_name": "Sumithra Clinic",
+        "map_loc": "10�36'21.3\"N+78�25'08.4\"E/@10.605926,78.4181924,325m",
+        "phone_no": "9442092668"
+    },
+    {
+        "_id": 70024,
+        "address": "Pookadai Street, Madurai Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.Loganathan",
+        "hospital_name": "Thangam Hospital",
+        "map_loc": "10�36'21.3\"N+78�25'08.4\"E/@10.605926,78.4181924,325m",
+        "phone_no": "4332267278"
+    },
+    {
+        "_id": 70025,
+        "address": "Madurai Road, Manapparai Pin:621306",
+        "doctor_name": "Dr.SivaKumar/Dr.Alim/Dr.Ezhil Babu",
+        "hospital_name": "Udhayam Hospital",
+        "map_loc": "10�36'21.3\"N+78�25'08.4\"E/@10.605926,78.4181924,325m",
+        "phone_no": "4332261506"
+    }
+]

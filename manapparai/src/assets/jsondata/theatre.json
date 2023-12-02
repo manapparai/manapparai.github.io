@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 150001,
+        "address": "Manapparaipatty Road, Manapparai. Pin:621306",
+        "map_loc": "Uthayam+AC+Theater,+Manapparai,+Tamil+Nadu+621306/@10.6011416,78.4214894,359m",
+        "theatre_name": "Udhayam Theatre"
+    },
+    {
+        "_id": 150002,
+        "address": "Trichy Road, Manapparai. Pin:621306",
+        "map_loc": "Indira+Theater/@10.6098524,78.4231543,215m",
+        "theatre_name": "Indhira Theatre"
+    },
+    {
+        "_id": 150003,
+        "address": "Madurai Road, Manapparai. Pin:621306",
+        "map_loc": "Karpagam+Theatre/@10.6046725,78.4180889,214m",
+        "theatre_name": "Karpagam Theatre"
+    }
+]

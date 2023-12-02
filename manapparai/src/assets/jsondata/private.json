@@ -1,0 +1,79 @@
+[
+    {
+        "_id": 120001,
+        "address": "Karthika Complex, Kovilpatty Road, Manapparai. Pin:621306",
+        "phone_no": "9994047532",
+        "private_name": "Aadhavan Fitness Point (Ladies & Gents)",
+        "service_type": "Gym and Fitness"
+    },
+    {
+        "_id": 120002,
+        "address": "Above Indian bank building, Manapparai. Pin:621306",
+        "phone_no": "9840250077",
+        "private_name": "Bonsai Academy",
+        "service_type": "Special Coaching classes"
+    },
+    {
+        "_id": 120003,
+        "address": "Chinnakadai Street,Manapparai. Pin:621306",
+        "phone_no": "4332264265",
+        "private_name": "CADD Centre",
+        "service_type": "CAD and Software Training Service"
+    },
+    {
+        "_id": 120004,
+        "address": "Dindugal Road, Manapparai. Pin:621306",
+        "phone_no": "4332260648",
+        "private_name": "CSC Computer Education",
+        "service_type": "Computer Course Coaching centre"
+    },
+    {
+        "_id": 120005,
+        "address": "65/1 Dindugal Road, Manapparai. Pin:621306",
+        "phone_no": "9965075408",
+        "private_name": "Everest IAS Academy",
+        "service_type": "IAS Coaching classes"
+    },
+    {
+        "_id": 120006,
+        "address": "Pommalaipatty Road, Manapparai. Pin:621306",
+        "phone_no": "9965897649",
+        "private_name": "Manavai Kutralam",
+        "service_type": "Swimming classes and entertainment"
+    },
+    {
+        "_id": 120007,
+        "address": "1/2 Dindugal road, Manapparai. Pin:621306",
+        "phone_no": "9789412222",
+        "private_name": "Nallaiah Driving School",
+        "service_type": "Driving classes and License consulting"
+    },
+    {
+        "_id": 120008,
+        "address": "131, Dindugal Road, Manapparai. Pin:621306",
+        "phone_no": "9443411828",
+        "private_name": "Sekar Driving School",
+        "service_type": "Driving classes and License consulting"
+    },
+    {
+        "_id": 120009,
+        "address": "155 Masthan Street, Manapparai. Pin:621306",
+        "phone_no": "9942824800",
+        "private_name": "Thamarai Internet and Browsing Centre",
+        "service_type": "Color Printing Scanning Browsing etc Service"
+    },
+    {
+        "_id": 120010,
+        "address": "RMR Complex, Railway Gate, Manapparai. Pin:621306",
+        "phone_no": "4332262230",
+        "private_name": "The Professional Courier",
+        "service_type": "Courier Service"
+    },
+    {
+        "_id": 120011,
+        "address": "Dindugal Main Road, Manapparai. Pin:621306",
+        "phone_no": "9443501915",
+        "private_name": "Vignesh Driving School",
+        "service_type": "Driving classes and License consulting"
+    }
+]

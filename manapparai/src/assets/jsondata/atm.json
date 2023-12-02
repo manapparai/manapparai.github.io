@@ -1,0 +1,116 @@
+[
+    {
+        "_id": 10001,
+        "address": "Near Bus Stand, Dindugal Road, Manapparai.",
+        "atm_name": "Axis Bank ATM",
+        "map_loc": "Axis+Bank+Ltd/@10.6062911,78.4183073,229m"
+    },
+    {
+        "_id": 10002,
+        "address": "Near Renganatha Hospital, Madurai Road, Manapparai.",
+        "atm_name": "Bank of India ATM (BOI)",
+        "map_loc": "Manapparai,+Tamil+Nadu+621306/@10.603427,78.417037,218m"
+    },
+    {
+        "_id": 10003,
+        "address": "Opposite to Post Office, Dindigul Road, Manapparai",
+        "atm_name": "Canara Bank ATM",
+        "map_loc": "Canara+Bank/@10.6051697,78.4156227,229m"
+    },
+    {
+        "_id": 10004,
+        "address": "Near Bus Stand, Dindugal Road, Manapparai.",
+        "atm_name": "City Union Bank ATM 1",
+        "map_loc": "City+Union+Bank/@10.6061438,78.4181631,229m"
+    },
+    {
+        "_id": 10005,
+        "address": "Opposite to Mahalakhsmi Thirumana Mahal, Manaparai to Pudukottai Road, Manapparai",
+        "atm_name": "City Union Bank ATM 2",
+        "map_loc": "10�36'23.1\"N+78�25'39.5\"E/@10.6064324,78.4270697,229m"
+    },
+    {
+        "_id": 10006,
+        "address": "Opposite to Montfort English Play School, Trcihy Road, Manapparai",
+        "atm_name": "India 1 Bank ATM",
+        "map_loc": "10�36'51.0\"N+78�25'40.8\"E/@10.6141704,78.4274266,229m"
+    },
+    {
+        "_id": 10007,
+        "address": "Near Bus Stand, Dindugal Road, Manapparai.",
+        "atm_name": "Indian Bank ATM 1",
+        "map_loc": "Indian+Bank+and+ATM/@10.6063742,78.4184915,229m"
+    },
+    {
+        "_id": 10008,
+        "address": "Near Kumarappa, Kovilpatti Road, Manapparai",
+        "atm_name": "Indian Bank ATM 2",
+        "map_loc": "10�36'28.2\"N+78�25'25.2\"E/@10.6078314,78.4230933,229m"
+    },
+    {
+        "_id": 10009,
+        "address": "Near Bus Stand, Dindugal Road, Manapparai.",
+        "atm_name": "Indian Overseas Bank ATM",
+        "map_loc": "Indian+Overseas+Bank+ATM/@10.6062134,78.4180654,229m"
+    },
+    {
+        "_id": 10010,
+        "address": "Near Indian Oil Petrol Bunk, Madurai Road, Manapparai",
+        "atm_name": "Karur Vysya Bank ATM 1",
+        "map_loc": "Karur+Vysya+Bank/@10.6052791,78.4178275,229m"
+    },
+    {
+        "_id": 10011,
+        "address": "Near Cattle Market,Trichy to Dindugal Highway road, Manapparai",
+        "atm_name": "Karur Vysya Bank ATM 2",
+        "map_loc": "10�36'48.4\"N+78�25'23.6\"E/@10.6134404,78.4226303,230m"
+    },
+    {
+        "_id": 10012,
+        "address": "Near Andavar Malligai store, Manapparai to Pudukottai Road, Manapparai",
+        "atm_name": "Karur Vysya Bank ATM 3",
+        "map_loc": "KVB+ATM/@10.6067189,78.4254383,229m"
+    },
+    {
+        "_id": 10013,
+        "address": "Opposite to Kasim Hospital, Madurai Road, Manapparai.",
+        "atm_name": "State Bank ATM 1",
+        "map_loc": "poorvegam+siddha+hospital/@10.6048153,78.4172791,218m"
+    },
+    {
+        "_id": 10014,
+        "address": "Near Railway station, Manapparai.",
+        "atm_name": "State Bank ATM 2",
+        "map_loc": "Park+Rd,+Boys+Town,+Manapparai,+Tamil+Nadu+621306/@10.6073947,78.4177503,229m"
+    },
+    {
+        "_id": 10015,
+        "address": "Pudhutheru, Opposite to Jyothi Store, Manapparai.",
+        "atm_name": "State Bank ATM 3",
+        "map_loc": "10�36'26.6\"N+78�25'13.9\"E/@10.6073804,78.4199649,229m"
+    },
+    {
+        "_id": 10016,
+        "address": "Near to Mahalakhsmi Thirumana Mahal, Manaparai to Pudukottai Road, Manapparai",
+        "atm_name": "State Bank ATM 4",
+        "map_loc": "10�36'23.9\"N+78�25'39.8\"E/@10.6066414,78.4271515,230m"
+    },
+    {
+        "_id": 10017,
+        "address": "Near Post Office, Dindigul road, Manapparai.",
+        "atm_name": "State Bank of India ATM",
+        "map_loc": "State+Bank+of+India/@10.60507,78.4155325,229m"
+    },
+    {
+        "_id": 10018,
+        "address": "Opposite to Kalai Arasan Hospital, Madurai Road, Manapparai.",
+        "atm_name": "TMB Bank ATM 1",
+        "map_loc": "Manapparai,+Tamil+Nadu+621306/@10.603947,78.417602,218m"
+    },
+    {
+        "_id": 10019,
+        "address": "Kovilpatti road, Manapparai",
+        "atm_name": "TMB Bank ATM 2",
+        "map_loc": "10�36'21.8\"N+78�25'34.4\"E/@10.6062721,78.4259562,229m"
+    }
+]

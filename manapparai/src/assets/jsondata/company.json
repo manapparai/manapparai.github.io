@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 40001,
+        "address": "No 1205/1, Puthanatham, Karupur Road, Trichy. Pin : 621310",
+        "company_name": "Adaiyaalam Publishing",
+        "company_type": "PRIVATE",
+        "map_loc": "10�27'56.5\"N+78�22'09.7\"E/@10.4657034,78.3687936,229m",
+        "phone_no": "9443768004"
+    },
+    {
+        "_id": 40002,
+        "address": "No. 77/9,Second Floor, Sivan Complex, Near  IOC Petrol Bunk, Madurai Road. Manapparai",
+        "company_name": "I Smart Technologies",
+        "company_type": "PRIVATE",
+        "map_loc": "10�36'17.3\"N+78�25'04.2\"E/@10.6048156,78.4171708,260m",
+        "phone_no": "4332262266"
+    },
+    {
+        "_id": 40003,
+        "address": "Manapparai. Pin:621306",
+        "company_name": "TNPL",
+        "company_type": "GOVERMENT",
+        "map_loc": "Manapparai,+Tamil+Nadu+621306/@10.605734,78.4236194,3478m",
+        "phone_no": "4332"
+    }
+]

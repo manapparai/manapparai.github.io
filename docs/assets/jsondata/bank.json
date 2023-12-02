@@ -1,0 +1,72 @@
+[
+    {
+        "_id": 20001,
+        "address": "166 DINDUGAL ROAD, DISTT. TIRUCHIRAPALLI, TAMIL NADU 621306",
+        "bank_name": "State Bank of India",
+        "bank_type": "GOVERMENT",
+        "ifsc": "SBIN0000995",
+        "map_loc": "State+Bank+of+India/@10.6051345,78.4156757,229m",
+        "micr": "620002022",
+        "phone_no": "4332260327"
+    },
+    {
+        "_id": 20002,
+        "address": "NO.269,DINDIGUL ROAD, MANAPPARAI 621306",
+        "bank_name": "AXIS BANK",
+        "bank_type": "PRIVATE",
+        "ifsc": "UTIB0001563",
+        "map_loc": "Axis+Bank+Ltd/@10.606164,78.4181462,229m",
+        "micr": "620211006",
+        "phone_no": "4332260060"
+    },
+    {
+        "_id": 20003,
+        "address": "SH 71A, Vadagupatti, Tamil Nadu 621306",
+        "bank_name": "City Union Bank",
+        "bank_type": "PRIVATE",
+        "ifsc": "CIUB0000026 ",
+        "map_loc": "City+Union+Bank/@10.606164,78.4181462,229m",
+        "micr": "620054006",
+        "phone_no": "4428297208"
+    },
+    {
+        "_id": 20004,
+        "address": "Maickma Towers 227 Dindigul Road Manapparai 621306",
+        "bank_name": "Indian Bank",
+        "bank_type": "GOVERMENT",
+        "ifsc": "IDIB000M131",
+        "map_loc": "Indian+Bank+and+ATM/@10.606164,78.4181462,229m",
+        "micr": "621019096",
+        "phone_no": "4332260546"
+    },
+    {
+        "_id": 20005,
+        "address": "49-a, Trichy Road, Manaparai Pin 621306",
+        "bank_name": "Indian Overseas Bank",
+        "bank_type": "GOVERNMENT",
+        "ifsc": "IOBA0000053",
+        "map_loc": "Indian+Overseas+Bank+ATM/@10.6062134,78.4180654,229m",
+        "micr": "620020025",
+        "phone_no": "4428519488"
+    },
+    {
+        "_id": 20006,
+        "address": "77-g, Madurai Road, Kankaniar Pettai, Manapparai 621306",
+        "bank_name": "Karur Vysia Bank",
+        "bank_type": "PRIVATE",
+        "ifsc": "KVBL0001647 ",
+        "map_loc": "Karur+Vysya+Bank/@10.6048311,78.417775,231m",
+        "micr": "620053011",
+        "phone_no": "18602001916"
+    },
+    {
+        "_id": 20007,
+        "address": "D.NO. 60-B, KOVILPATTI ROAD, MANAPPARAI - 621306",
+        "bank_name": "Tamilnad Mecantile Bank ltd",
+        "bank_type": "PRIVATE",
+        "ifsc": "TMBL0000254",
+        "map_loc": "10�36'21.7\"N+78�25'34.2\"E/@10.6061713,78.4257484,229m",
+        "micr": "620060004",
+        "phone_no": "9095122888"
+    }
+]
