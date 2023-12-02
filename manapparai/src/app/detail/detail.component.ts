@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { JsonDataService } from '../json-data.service';
+import { Location } from '@angular/common';
 
 @Component({
   selector: 'app-detail',
@@ -9,11 +10,13 @@ import { JsonDataService } from '../json-data.service';
 })
 export class DetailComponent implements OnInit{
   selectedFileName: string = '';
-  jsonData!: any[];
+  jsonData: any[] = [];
 
   constructor(
     private route: ActivatedRoute,
-    private jsonDataService: JsonDataService
+    private router: Router,
+    private jsonDataService: JsonDataService,
+    private location: Location
   ) {}
 
   ngOnInit() {
@@ -28,6 +31,15 @@ export class DetailComponent implements OnInit{
     .getAllJsonData([this.selectedFileName])[0]
     .subscribe(data => {
       this.jsonData = data;
+      console.log(this.jsonData);
     });
+  }
+
+  goBack(): void {
+    this.location.back();
+  }
+
+  navigateToMoreDetail(listItem: any) {
+    this.router.navigate(['/more-detail'], { state: { listItem: listItem } });
   }
 }

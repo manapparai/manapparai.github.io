@@ -1,0 +1,10 @@
+<div class="container">
+    <table class="table">
+      <tbody>
+        <tr *ngFor="let key of keys">
+          <th>{{ key }}</th>
+          <td style="max-width: 200px; word-wrap: break-word;">{{ data[key] }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>  

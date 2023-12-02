@@ -1,0 +1,15 @@
+<nav class="navbar navbar-light bg-light">
+    <div
+      class="container-fluid d-flex justify-content-between align-items-center"
+    >
+      <div>
+        <button class="btn btn-outline-secondary" (click)="goBack()">
+          <i class="bi bi-arrow-left"></i> Back
+        </button>
+      </div>
+      <h2 class="text-center mb-4">{{ listItem.name }} Details</h2>
+      <div></div>
+      <!-- Empty div to balance the space on the right -->
+    </div>
+  </nav>
+<app-dynamic-table [data]="listItem"></app-dynamic-table>
