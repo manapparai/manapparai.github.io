@@ -9,7 +9,8 @@ const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'detail/:fileName', component: DetailComponent },
   { path: 'more-detail', component: MoreDetailComponent },
-  { path: '**', redirectTo: ''}, // anything else redirect to the route mentioned
+  { path: '', redirectTo: '/home', pathMatch: 'full' }, // anything else redirect to the route mentioned
+  { path: '**', component: NotFoundComponent }
 ];
 
 @NgModule({
